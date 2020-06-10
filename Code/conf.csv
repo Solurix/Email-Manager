@@ -1,0 +1,39 @@
+representant_name,
+representant_sex,2
+res_number,1000
+guest_number,0
+total,0
+groups_no,1
+rooms_in_group,1,1,1,1,1,1
+room_type,NTY,NTY,NTY,NTY,NTY,NTY
+breakfast,False,False,False,False,False,False
+jrhm,False,False,False,False,False,False
+dates
+rates
+nights,0,0,0,0,0,0
+check_in_date,2020-06-10 00:00:00,2020-06-10 00:00:00,2020-06-10 00:00:00,2020-06-10 00:00:00,2020-06-10 00:00:00,2020-06-10 00:00:00
+check_out_date,2020-06-10 00:00:00,2020-06-10 00:00:00,2020-06-10 00:00:00,2020-06-10 00:00:00,2020-06-10 00:00:00,2020-06-10 00:00:00
+"('Guest_name ', 1)",
+"('Guest_sex ', 1)",2
+"('Guest_room ', 1)",Room 1
+"('Guest_name ', 2)",
+"('Guest_sex ', 2)",2
+"('Guest_room ', 2)",Room 1
+"('Guest_name ', 3)",
+"('Guest_sex ', 3)",2
+"('Guest_room ', 3)",Room 1
+"('Guest_name ', 4)",
+"('Guest_sex ', 4)",2
+"('Guest_room ', 4)",Room 1
+"('Guest_name ', 5)",
+"('Guest_sex ', 5)",2
+"('Guest_room ', 5)",Room 1
+"('Guest_name ', 6)",
+"('Guest_sex ', 6)",2
+"('Guest_room ', 6)",Room 1
+"('Guest_name ', 7)",
+"('Guest_sex ', 7)",2
+"('Guest_room ', 7)",Room 1
+"('Guest_name ', 8)",
+"('Guest_sex ', 8)",2
+"('Guest_room ', 8)",Room 1
